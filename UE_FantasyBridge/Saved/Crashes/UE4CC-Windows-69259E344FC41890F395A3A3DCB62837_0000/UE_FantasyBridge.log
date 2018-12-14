@@ -1,0 +1,1350 @@
+﻿Log file open, 12/12/18 09:39:35
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: UE_FantasyBridge
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.856002
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.227s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.21-CL-4613538
+LogInit: Engine Version: 4.21.1-4613538+++UE4+Release-4.21
+LogInit: Compatible Engine Version: 4.21.0-4541578+++UE4+Release-4.21
+LogInit: Net CL: 4541578
+LogInit: OS: Windows 10 (), CPU:         Intel(R) Core(TM) i5-2500 CPU @ 3.30GHz, GPU: NVIDIA GeForce GTX 1060 3GB
+LogInit: Compiled (64-bit): Nov 30 2018 04:13:25
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.21
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.21/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 22
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 26
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 27
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 17
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 4
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogStreaming: Display: Took  0.010s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2018.12.12-08.39.36:435][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2018.12.12-08.39.36:435][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2018.12.12-08.39.36:435][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/TGA PROJECTS/FantasyBridge/UE_FantasyBridge/Saved/Config/Windows/Engine.ini]
+[2018.12.12-08.39.36:435][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2018.12.12-08.39.36:435][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/TGA PROJECTS/FantasyBridge/UE_FantasyBridge/Saved/Config/Windows/Engine.ini]
+[2018.12.12-08.39.36:435][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/TGA PROJECTS/FantasyBridge/UE_FantasyBridge/Saved/Config/Windows/Engine.ini]
+[2018.12.12-08.39.36:435][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2018.12.12-08.39.36:435][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2018.12.12-08.39.36:435][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2018.12.12-08.39.36:435][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2018.12.12-08.39.36:435][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2018.12.12-08.39.36:435][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2018.12.12-08.39.36:435][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2018.12.12-08.39.36:435][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2018.12.12-08.39.36:435][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2018.12.12-08.39.36:435][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2018.12.12-08.39.36:435][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2018.12.12-08.39.36:435][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2018.12.12-08.39.36:435][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2018.12.12-08.39.36:435][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/TGA PROJECTS/FantasyBridge/UE_FantasyBridge/Saved/Config/Windows/Engine.ini]
+[2018.12.12-08.39.36:435][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2018.12.12-08.39.36:435][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2018.12.12-08.39.36:435][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2018.12.12-08.39.36:435][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2018.12.12-08.39.36:435][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2018.12.12-08.39.36:435][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2018.12.12-08.39.36:435][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:8388607]]
+[2018.12.12-08.39.36:435][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2018.12.12-08.39.36:435][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2018.12.12-08.39.36:435][  0]LogConfig: Setting CVar [[gc.MergeGCClusters:0]]
+[2018.12.12-08.39.36:435][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2018.12.12-08.39.36:435][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2018.12.12-08.39.36:435][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2018.12.12-08.39.36:436][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2018.12.12-08.39.36:436][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/TGA PROJECTS/FantasyBridge/UE_FantasyBridge/Saved/Config/Windows/Engine.ini]
+[2018.12.12-08.39.36:436][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/TGA PROJECTS/FantasyBridge/UE_FantasyBridge/Saved/Config/Windows/Engine.ini]
+[2018.12.12-08.39.36:449][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/TGA PROJECTS/FantasyBridge/UE_FantasyBridge/Saved/Config/Windows/Scalability.ini]
+[2018.12.12-08.39.36:449][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2018.12.12-08.39.36:449][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2018.12.12-08.39.36:449][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/TGA PROJECTS/FantasyBridge/UE_FantasyBridge/Saved/Config/Windows/Scalability.ini]
+[2018.12.12-08.39.36:449][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2018.12.12-08.39.36:449][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/TGA PROJECTS/FantasyBridge/UE_FantasyBridge/Saved/Config/Windows/Scalability.ini]
+[2018.12.12-08.39.36:450][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2018.12.12-08.39.36:450][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2018.12.12-08.39.36:450][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2018.12.12-08.39.36:450][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2018.12.12-08.39.36:450][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2018.12.12-08.39.36:450][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2018.12.12-08.39.36:450][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2018.12.12-08.39.36:450][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2018.12.12-08.39.36:450][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2018.12.12-08.39.36:450][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2018.12.12-08.39.36:450][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2018.12.12-08.39.36:450][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2018.12.12-08.39.36:450][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2018.12.12-08.39.36:450][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2018.12.12-08.39.36:450][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2018.12.12-08.39.36:450][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2018.12.12-08.39.36:450][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2018.12.12-08.39.36:450][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2018.12.12-08.39.36:450][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/TGA PROJECTS/FantasyBridge/UE_FantasyBridge/Saved/Config/Windows/Scalability.ini]
+[2018.12.12-08.39.36:450][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2018.12.12-08.39.36:450][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2018.12.12-08.39.36:450][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2018.12.12-08.39.36:450][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2018.12.12-08.39.36:450][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2018.12.12-08.39.36:450][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2018.12.12-08.39.36:450][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2018.12.12-08.39.36:450][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2018.12.12-08.39.36:450][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2018.12.12-08.39.36:450][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2018.12.12-08.39.36:450][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2018.12.12-08.39.36:450][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2018.12.12-08.39.36:450][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2018.12.12-08.39.36:450][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2018.12.12-08.39.36:450][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2018.12.12-08.39.36:450][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2018.12.12-08.39.36:450][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2018.12.12-08.39.36:450][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2018.12.12-08.39.36:450][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2018.12.12-08.39.36:450][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2018.12.12-08.39.36:450][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2018.12.12-08.39.36:450][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2018.12.12-08.39.36:450][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2018.12.12-08.39.36:450][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2018.12.12-08.39.36:450][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2018.12.12-08.39.36:450][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2018.12.12-08.39.36:450][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2018.12.12-08.39.36:450][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2018.12.12-08.39.36:450][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2018.12.12-08.39.36:450][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2018.12.12-08.39.36:450][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/TGA PROJECTS/FantasyBridge/UE_FantasyBridge/Saved/Config/Windows/Scalability.ini]
+[2018.12.12-08.39.36:450][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2018.12.12-08.39.36:450][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2018.12.12-08.39.36:450][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2018.12.12-08.39.36:450][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2018.12.12-08.39.36:450][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2018.12.12-08.39.36:451][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2018.12.12-08.39.36:451][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2018.12.12-08.39.36:451][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2018.12.12-08.39.36:451][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/TGA PROJECTS/FantasyBridge/UE_FantasyBridge/Saved/Config/Windows/Scalability.ini]
+[2018.12.12-08.39.36:451][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2018.12.12-08.39.36:451][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2018.12.12-08.39.36:451][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2018.12.12-08.39.36:451][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2018.12.12-08.39.36:451][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2018.12.12-08.39.36:451][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2018.12.12-08.39.36:451][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2018.12.12-08.39.36:451][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2018.12.12-08.39.36:451][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2018.12.12-08.39.36:451][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2018.12.12-08.39.36:451][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2018.12.12-08.39.36:451][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2018.12.12-08.39.36:451][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2018.12.12-08.39.36:451][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/TGA PROJECTS/FantasyBridge/UE_FantasyBridge/Saved/Config/Windows/Scalability.ini]
+[2018.12.12-08.39.36:451][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2018.12.12-08.39.36:451][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2018.12.12-08.39.36:452][  0]LogInit: Selected Device Profile: [Windows]
+[2018.12.12-08.39.36:452][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.12.12-08.39.36:467][  0]LogHAL: Display: Platform has ~ 16 GB [17146216448 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2018.12.12-08.39.36:468][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:1]]
+[2018.12.12-08.39.36:468][  0]LogInit: Going up to parent DeviceProfile []
+[2018.12.12-08.39.36:468][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/TGA PROJECTS/FantasyBridge/UE_FantasyBridge/Saved/Config/Windows/Scalability.ini]
+[2018.12.12-08.39.36:468][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2018.12.12-08.39.36:468][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2018.12.12-08.39.36:468][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/TGA PROJECTS/FantasyBridge/UE_FantasyBridge/Saved/Config/Windows/Scalability.ini]
+[2018.12.12-08.39.36:468][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2018.12.12-08.39.36:468][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/TGA PROJECTS/FantasyBridge/UE_FantasyBridge/Saved/Config/Windows/Scalability.ini]
+[2018.12.12-08.39.36:468][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2018.12.12-08.39.36:468][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2018.12.12-08.39.36:468][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2018.12.12-08.39.36:468][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2018.12.12-08.39.36:468][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2018.12.12-08.39.36:468][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2018.12.12-08.39.36:468][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2018.12.12-08.39.36:468][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2018.12.12-08.39.36:468][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2018.12.12-08.39.36:468][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2018.12.12-08.39.36:468][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2018.12.12-08.39.36:468][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2018.12.12-08.39.36:468][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2018.12.12-08.39.36:468][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2018.12.12-08.39.36:468][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2018.12.12-08.39.36:468][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2018.12.12-08.39.36:468][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2018.12.12-08.39.36:468][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2018.12.12-08.39.36:468][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/TGA PROJECTS/FantasyBridge/UE_FantasyBridge/Saved/Config/Windows/Scalability.ini]
+[2018.12.12-08.39.36:468][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2018.12.12-08.39.36:468][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2018.12.12-08.39.36:468][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2018.12.12-08.39.36:468][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2018.12.12-08.39.36:468][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2018.12.12-08.39.36:468][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2018.12.12-08.39.36:468][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2018.12.12-08.39.36:468][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2018.12.12-08.39.36:468][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2018.12.12-08.39.36:468][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2018.12.12-08.39.36:468][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2018.12.12-08.39.36:468][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2018.12.12-08.39.36:468][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2018.12.12-08.39.36:468][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2018.12.12-08.39.36:469][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2018.12.12-08.39.36:469][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2018.12.12-08.39.36:469][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2018.12.12-08.39.36:469][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2018.12.12-08.39.36:469][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2018.12.12-08.39.36:469][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2018.12.12-08.39.36:469][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2018.12.12-08.39.36:469][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2018.12.12-08.39.36:469][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2018.12.12-08.39.36:469][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2018.12.12-08.39.36:469][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2018.12.12-08.39.36:469][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2018.12.12-08.39.36:469][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2018.12.12-08.39.36:469][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2018.12.12-08.39.36:469][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2018.12.12-08.39.36:469][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2018.12.12-08.39.36:469][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/TGA PROJECTS/FantasyBridge/UE_FantasyBridge/Saved/Config/Windows/Scalability.ini]
+[2018.12.12-08.39.36:469][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2018.12.12-08.39.36:469][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2018.12.12-08.39.36:469][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2018.12.12-08.39.36:469][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2018.12.12-08.39.36:469][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2018.12.12-08.39.36:469][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2018.12.12-08.39.36:469][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2018.12.12-08.39.36:469][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2018.12.12-08.39.36:469][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/TGA PROJECTS/FantasyBridge/UE_FantasyBridge/Saved/Config/Windows/Scalability.ini]
+[2018.12.12-08.39.36:469][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2018.12.12-08.39.36:469][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2018.12.12-08.39.36:469][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2018.12.12-08.39.36:469][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2018.12.12-08.39.36:469][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2018.12.12-08.39.36:469][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2018.12.12-08.39.36:469][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2018.12.12-08.39.36:469][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2018.12.12-08.39.36:469][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2018.12.12-08.39.36:469][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2018.12.12-08.39.36:469][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2018.12.12-08.39.36:469][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2018.12.12-08.39.36:469][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2018.12.12-08.39.36:469][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/TGA PROJECTS/FantasyBridge/UE_FantasyBridge/Saved/Config/Windows/Scalability.ini]
+[2018.12.12-08.39.36:469][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2018.12.12-08.39.36:469][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2018.12.12-08.39.36:469][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2018.12.12-08.39.36:470][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2018.12.12-08.39.36:470][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/TGA PROJECTS/FantasyBridge/UE_FantasyBridge/Saved/Config/Windows/Engine.ini]
+[2018.12.12-08.39.36:471][  0]LogInit: Computer: TGA29
+[2018.12.12-08.39.36:471][  0]LogInit: User: claeslewenhaupt
+[2018.12.12-08.39.36:471][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.12.12-08.39.36:471][  0]LogInit: High frequency timer resolution =3.215348 MHz
+[2018.12.12-08.39.36:472][  0]LogMemory: Memory total: Physical=16.0GB (16GB approx)
+[2018.12.12-08.39.36:472][  0]LogMemory: Platform Memory Stats for Windows
+[2018.12.12-08.39.36:472][  0]LogMemory: Process Physical Memory: 102.59 MB used, 102.59 MB peak
+[2018.12.12-08.39.36:472][  0]LogMemory: Process Virtual Memory: 84.91 MB used, 84.91 MB peak
+[2018.12.12-08.39.36:472][  0]LogMemory: Physical Memory: 4966.05 MB used,  11385.85 MB free, 16351.91 MB total
+[2018.12.12-08.39.36:472][  0]LogMemory: Virtual Memory: 4613.85 MB used,  134213112.00 MB free, 134217728.00 MB total
+[2018.12.12-08.39.36:606][  0]LogInit: Using OS detected language (en-US).
+[2018.12.12-08.39.36:606][  0]LogInit: Using OS detected locale (en-US).
+[2018.12.12-08.39.36:609][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.12.12-08.39.37:165][  0]LogStreaming: Display: Took  0.558s to InitEngineTextLocalization.
+[2018.12.12-08.39.37:165][  0]LogInit: Setting process to per monitor DPI aware
+[2018.12.12-08.39.37:233][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.12.12-08.39.37:233][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.12.12-08.39.37:703][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.12.12-08.39.37:703][  0]LogD3D11RHI: D3D11 adapters:
+[2018.12.12-08.39.37:801][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1060 3GB' (Feature Level 11_0)
+[2018.12.12-08.39.37:801][  0]LogD3D11RHI:       2997/0/8175 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2018.12.12-08.39.37:805][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.12.12-08.39.37:805][  0]LogD3D11RHI:       0/0/8175 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.12.12-08.39.37:805][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.12.12-08.39.37:815][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.12.12-08.39.37:815][  0]LogD3D11RHI:     GPU DeviceId: 0x1c02 (for the marketing name, search the web for "GPU Device Id")
+[2018.12.12-08.39.37:815][  0]LogWindows: EnumDisplayDevices:
+[2018.12.12-08.39.37:816][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1060 3GB' (P:1 D:1)
+[2018.12.12-08.39.37:816][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1060 3GB' (P:0 D:1)
+[2018.12.12-08.39.37:817][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1060 3GB' (P:0 D:0)
+[2018.12.12-08.39.37:818][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1060 3GB' (P:0 D:0)
+[2018.12.12-08.39.37:818][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2018.12.12-08.39.37:818][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1060 3GB
+[2018.12.12-08.39.37:818][  0]LogD3D11RHI:   Driver Version: 388.13 (internal:23.21.13.8813, unified:388.13)
+[2018.12.12-08.39.37:818][  0]LogD3D11RHI:      Driver Date: 10-27-2017
+[2018.12.12-08.39.37:819][  0]LogRHI: Texture pool is 2097 MB (70% of 2997 MB)
+[2018.12.12-08.39.37:877][  0]LogD3D11RHI: Async texture creation enabled
+[2018.12.12-08.39.37:903][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2018.12.12-08.39.38:692][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.12.12-08.39.38:713][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.12.12-08.39.38:733][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.12.12-08.39.38:753][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.12.12-08.39.38:775][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.12.12-08.39.38:797][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.12.12-08.39.38:818][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.12.12-08.39.38:839][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.12.12-08.39.38:851][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.12.12-08.39.38:950][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.12-08.39.38:950][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.12-08.39.38:950][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.12-08.39.38:950][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.12-08.39.38:950][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.12-08.39.38:950][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.12-08.39.38:950][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.12-08.39.38:951][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.12-08.39.38:951][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.12-08.39.38:951][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.12-08.39.38:951][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.12-08.39.38:951][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.12-08.39.38:951][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.12-08.39.38:951][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.12-08.39.38:951][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.12-08.39.38:951][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.12-08.39.38:951][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.12-08.39.38:951][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.12-08.39.38:955][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.12.12-08.39.39:035][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.12.12-08.39.39:035][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.12.12-08.39.39:067][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.12.12-08.39.39:067][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.12.12-08.39.39:086][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.12.12-08.39.39:105][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.12.12-08.39.39:123][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.12.12-08.39.39:144][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.12.12-08.39.39:205][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2018.12.12-08.39.39:205][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2018.12.12-08.39.39:205][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.12.12-08.39.39:380][  0]LogShaderCompilers: Guid format shader working directory is 11 characters bigger than the processId version (D:/TGA PROJECTS/FantasyBridge/UE_FantasyBridge/Intermediate/Shaders/WorkingDirectory/8136/).
+[2018.12.12-08.39.39:380][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/claes.lewenhaupt/AppData/Local/Temp/UnrealShaderWorkingDir/A9034B2A4D65221DE1F347BF45EC099E/'.
+[2018.12.12-08.39.39:387][  0]LogXGEController: Cleaning working directory: C:/Users/claes.lewenhaupt/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2018.12.12-08.39.39:387][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.12.12-08.39.39:387][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.12.12-08.39.39:387][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.12.12-08.39.40:176][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.12.12-08.39.40:542][  0]LogDerivedDataCache: Loaded boot cache 0.37s 71MB C:/Users/claes.lewenhaupt/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2018.12.12-08.39.40:542][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/claes.lewenhaupt/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc
+[2018.12.12-08.39.40:542][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file D:/TGA PROJECTS/FantasyBridge/UE_FantasyBridge/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.12.12-08.39.40:542][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.12.12-08.39.40:542][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file D:/TGA PROJECTS/FantasyBridge/UE_FantasyBridge/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.12.12-08.39.40:542][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.12.12-08.39.40:562][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.12.12-08.39.40:563][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.12.12-08.39.40:563][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2018.12.12-08.39.40:576][  0]LogDerivedDataCache: Using Local data cache path C:/Users/claes.lewenhaupt/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.12.12-08.39.40:576][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2018.12.12-08.39.40:576][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2018.12.12-08.39.40:607][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.12.12-08.39.40:614][  0]LogSlate: Using FreeType 2.6.0
+[2018.12.12-08.39.40:618][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.12.12-08.39.40:807][  0]LogAssetRegistry: FAssetRegistry took 0.0394 seconds to start up
+[2018.12.12-08.39.41:334][  0]LogInit: Selected Device Profile: [Windows]
+[2018.12.12-08.39.41:538][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.12.12-08.39.41:564][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.12.12-08.39.41:564][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2018.12.12-08.39.41:565][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.12.12-08.39.41:565][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.12.12-08.39.41:725][  0]LogNetVersion: UE_FantasyBridge 1.0.0, NetCL: 4541578, EngineNetVer: 5, GameNetVer: 0 (Checksum: 3653539432)
+[2018.12.12-08.39.42:684][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.097111 seconds
+[2018.12.12-08.39.42:702][  0]LogUObjectArray: 39775 objects as part of root set at end of initial load.
+[2018.12.12-08.39.42:702][  0]LogUObjectAllocator: 6914664 out of 0 bytes used by permanent object pool.
+[2018.12.12-08.39.42:702][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.12.12-08.39.44:943][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.12.12-08.39.44:962][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.12.12-08.39.46:209][  0]SourceControl: Source control is disabled
+[2018.12.12-08.39.47:891][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.12.12-08.39.48:102][  0]LogOcInput: OculusInput pre-init called
+[2018.12.12-08.39.48:409][  0]LogEngine: Initializing Engine...
+[2018.12.12-08.39.48:412][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.12.12-08.39.48:425][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.005 s
+[2018.12.12-08.39.48:425][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.12.12-08.39.48:425][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.12.12-08.39.48:427][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.002 s
+[2018.12.12-08.39.48:793][  0]LogInit: Initializing FReadOnlyCVARCache
+[2018.12.12-08.39.48:915][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.12.12-08.39.48:993][  0]LogInit: XAudio2 using 'Hörlurar (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.12.12-08.39.49:051][  0]LogInit: FAudioDevice initialized.
+[2018.12.12-08.39.49:052][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2018.12.12-08.39.49:235][  0]LogDerivedDataCache: Saved boot cache 0.18s 71MB C:/Users/claes.lewenhaupt/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2018.12.12-08.39.49:262][  0]LogInit: Texture streaming: Enabled
+[2018.12.12-08.39.49:314][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.12.12-08.39.49:345][  0]LogInit: Transaction tracking system initialized
+[2018.12.12-08.39.49:434][  0]BlueprintLog: New page: Editor Load
+[2018.12.12-08.39.49:711][  0]LocalizationService: Localization service is disabled
+[2018.12.12-08.39.50:520][  0]LogFileCache: Scanning file cache for directory 'D:/TGA PROJECTS/FantasyBridge/UE_FantasyBridge/Content/' took 0.02s
+[2018.12.12-08.39.50:520][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.12.12-08.39.50:520][  0]LogCook: Display: Mobile HDR setting 1
+[2018.12.12-08.39.50:520][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.12.12-08.39.50:520][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.12.12-08.39.50:521][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.12.12-08.39.50:521][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.12.12-08.39.50:521][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.12.12-08.39.51:007][  0]Cmd: MAP LOAD FILE="D:/TGA PROJECTS/FantasyBridge/UE_FantasyBridge/Content/Root/Assets/Maps/Bridge.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.12.12-08.39.51:008][  0]LightingResults: New page: Lighting Build
+[2018.12.12-08.39.51:022][  0]MapCheck: New page: Map Check
+[2018.12.12-08.39.51:022][  0]LightingResults: New page: Lighting Build
+[2018.12.12-08.39.52:485][  0]LogAIModule: Creating AISystem for world Bridge
+[2018.12.12-08.39.52:750][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.12.12-08.39.52:797][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.12.12-08.39.52:798][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.183ms to complete.
+[2018.12.12-08.39.52:798][  0]LogFileHelpers: Loading map 'Bridge' took 1.792
+[2018.12.12-08.39.52:970][  0]LogCollectionManager: Loaded 0 collections in 0.004107 seconds
+[2018.12.12-08.39.53:078][  0]LogFileCache: Scanning file cache for directory 'D:/TGA PROJECTS/FantasyBridge/UE_FantasyBridge/Saved/Collections/' took 0.01s
+[2018.12.12-08.39.53:078][  0]LogFileCache: Scanning file cache for directory 'D:/TGA PROJECTS/FantasyBridge/UE_FantasyBridge/Content/Developers/claeslewenhaupt/Collections/' took 0.01s
+[2018.12.12-08.39.53:078][  0]LogFileCache: Scanning file cache for directory 'D:/TGA PROJECTS/FantasyBridge/UE_FantasyBridge/Content/Collections/' took 0.01s
+[2018.12.12-08.39.53:078][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.12.12-08.39.53:098][  0]LogContentBrowser: Native class hierarchy populated in 0.0139 seconds. Added 2651 classes and 620 folders.
+[2018.12.12-08.39.53:141][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.12.12-08.39.53:154][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.12-08.39.53:164][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.12-08.39.53:168][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.12-08.39.53:170][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.12-08.39.53:173][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.12-08.39.53:175][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.12-08.39.53:177][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.12-08.39.53:179][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.12-08.39.53:188][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.12-08.39.53:199][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.12-08.39.53:205][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.12-08.39.53:210][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.12-08.39.53:212][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.12-08.39.53:214][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.12-08.39.53:215][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.12-08.39.53:225][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.12-08.39.53:232][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.12-08.39.53:239][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.12-08.39.53:243][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.12-08.39.53:247][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.12-08.39.53:249][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.12-08.39.53:251][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.12-08.39.53:253][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.12-08.39.53:260][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.12-08.39.53:269][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.12-08.39.53:274][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.12-08.39.53:399][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.12.12-08.39.53:439][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.12-08.39.53:449][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.12-08.39.53:459][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.12-08.39.53:469][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.12-08.39.53:488][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2018.12.12-08.39.53:726][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.12-08.39.53:737][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.12-08.39.53:748][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.12-08.39.53:759][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.12-08.39.53:771][  0]LogSlate: Took 0.001502 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.12.12-08.39.53:776][  0]LogSlate: Took 0.001859 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.12.12-08.39.53:779][  0]LogSlate: Took 0.001458 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.12.12-08.39.53:947][  0]LogRenderer: Reallocating scene render targets to support 1180x924 Format 10 NumSamples 1 (Frame:1).
+[2018.12.12-08.39.54:281][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2018.12.12-08.39.54:281][  0]LogLoad: (Engine Initialization) Total time: 23.25 seconds
+[2018.12.12-08.39.54:281][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.12.12-08.39.54:368][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.12.12-08.39.54:407][  0]LogSlate: Took 0.001463 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.12.12-08.39.54:567][  2]LogAssetRegistry: Asset discovery search completed in 13.7810 seconds
+[2018.12.12-08.39.54:570][  2]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.12.12-08.39.54:570][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000088 seconds (updated 0 objects)
+[2018.12.12-08.42.08:476][401]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.12-08.42.49:981][142]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.12-08.42.50:020][142]LogRenderer: Reallocating scene render targets to support 1180x996 Format 10 NumSamples 1 (Frame:5365).
+[2018.12.12-08.54.05:676][ 33]LogEditorViewport: Clicking on Actor (LMB): SkyLight (SkyLight)
+[2018.12.12-08.54.07:088][140]LogEditorViewport: Clicking on Actor (LMB): DirectionalLight (Light Source)
+[2018.12.12-08.54.07:945][216]LogEditorViewport: Clicking on Actor (LMB): AtmosphericFog (AtmosphericFog)
+[2018.12.12-08.54.09:295][339]LogEditorViewport: Clicking on Actor (LMB): ExponentialHeightFog (ExponentialHeightFog)
+[2018.12.12-08.54.23:400][664]LogEditorBookmarks: Warning: FBookmarkTypeToolsImpl::JumpToBookmark - Null Bookmark at index 6
+[2018.12.12-08.54.31:195][382]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.12-08.54.31:333][393]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2018.12.12-08.54.32:049][444]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.12-08.54.35:170][728]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.12-08.54.36:401][860]LogSlate: Took 0.001493 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.12.12-08.54.42:004][339]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.12-08.54.42:117][347]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.12.12-08.54.43:935][508]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.12-08.54.59:075][873]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.12-08.55.22:411][754]Cmd: TRANSACTION UNDO
+[2018.12.12-08.55.22:411][754]LogEditorTransaction: Undo Select Brush Surface
+[2018.12.12-08.55.22:505][754]LogSlate: Took 0.000441 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.12.12-08.55.22:871][765]Cmd: TRANSACTION UNDO
+[2018.12.12-08.55.22:871][765]LogEditorTransaction: Undo Snap Actors To Floor
+[2018.12.12-08.55.23:170][786]Cmd: TRANSACTION UNDO
+[2018.12.12-08.55.23:170][786]LogEditorTransaction: Undo Snap Actors To Floor
+[2018.12.12-08.55.23:815][837]Cmd: TRANSACTION UNDO
+[2018.12.12-08.55.23:815][837]LogEditorTransaction: Undo Snap Actors To Floor
+[2018.12.12-08.55.25:550][949]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.12.12-08.55.49:848][872]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.12-08.56.18:679][320]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.12-08.56.40:914][786]LogEditorViewport: Clicking on Actor (LMB): SkyLight (SkyLight)
+[2018.12.12-08.56.58:840][175]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.12-08.57.30:634][271]LogSlate: Window 'Color Picker' being destroyed
+[2018.12.12-08.57.45:965][385]LogEditorViewport: Clicking on Actor (LMB): LightmassImportanceVolume (LightmassImportanceVolume)
+[2018.12.12-08.57.47:621][500]Cmd: DELETE
+[2018.12.12-08.57.47:621][500]Cmd: ACTOR DELETE
+[2018.12.12-08.57.47:670][500]LogEditorActor: Deleted Actor: LightmassImportanceVolume
+[2018.12.12-08.57.47:708][500]LogSlate: Window 'Color Picker' being destroyed
+[2018.12.12-08.57.47:710][500]LogEditorActor: Deleted 1 Actors (0.087 secs)
+[2018.12.12-08.57.52:651][936]LogEditorViewport: Clicking on Actor (LMB): SkyLight (SkyLight)
+[2018.12.12-08.57.56:048][183]Cmd: TRANSACTION UNDO
+[2018.12.12-08.57.56:048][183]LogEditorTransaction: Undo Move Actors
+[2018.12.12-08.57.57:535][285]Cmd: TRANSACTION UNDO
+[2018.12.12-08.57.57:535][285]LogEditorTransaction: Undo Clicking on Actors
+[2018.12.12-08.57.58:587][374]Cmd: TRANSACTION UNDO
+[2018.12.12-08.57.58:587][374]LogEditorTransaction: Undo Delete Actors
+[2018.12.12-08.58.01:546][579]LogEditorViewport: Clicking on Actor (LMB): LightmassImportanceVolume (LightmassImportanceVolume)
+[2018.12.12-08.58.03:876][744]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2018.12.12-08.58.04:655][783]LogEditorViewport: Clicking on Actor (LMB): LightmassImportanceVolume (LightmassImportanceVolume)
+[2018.12.12-08.58.05:929][877]Cmd: DELETE
+[2018.12.12-08.58.05:929][877]Cmd: ACTOR DELETE
+[2018.12.12-08.58.05:966][877]LogEditorActor: Deleted Actor: LightmassImportanceVolume
+[2018.12.12-08.58.05:996][877]LogEditorActor: Deleted 1 Actors (0.067 secs)
+[2018.12.12-08.58.12:885][458]LogEditorViewport: Clicking on Actor (LMB): SkyLight (SkyLight)
+[2018.12.12-08.58.18:476][869]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.12-08.58.26:909][573]LogSlate: Window 'Color Picker' being destroyed
+[2018.12.12-08.58.31:551][904]LogSlate: Window 'Color Picker' being destroyed
+[2018.12.12-08.58.58:951][920]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.12-08.59.03:360][275]LogEditorViewport: Clicking on Actor (LMB): DirectionalLight (Light Source)
+[2018.12.12-08.59.05:169][400]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.12-08.59.43:269][604]LogSlate: Window 'Color Picker' being destroyed
+[2018.12.12-08.59.50:965][228]LogSlate: Window 'Color Picker' being destroyed
+[2018.12.12-09.00.34:100][736]LogEditorViewport: Clicking Background
+[2018.12.12-09.00.40:611][334]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.12-09.01.00:362][ 55]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.12-09.01.02:195][134]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.12-09.01.06:046][292]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.12.12-09.01.09:794][470]LogEditorViewport: Clicking Background
+[2018.12.12-09.01.10:817][534]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush4)
+[2018.12.12-09.01.18:263][858]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.12-09.01.27:504][236]LogEditorViewport: Clicking Background
+[2018.12.12-09.01.41:565][ 89]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.12-09.01.42:292][127]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.12-09.01.44:501][325]LogEditorViewport: Clicking on Actor (LMB): DirectionalLight (Light Source)
+[2018.12.12-09.01.46:088][438]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.12-09.01.55:851][163]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.12-09.02.45:302][114]LogSlate: Window 'Color Picker' being destroyed
+[2018.12.12-09.02.55:592][889]LogEditorViewport: Clicking on Actor (LMB): AtmosphericFog (AtmosphericFog)
+[2018.12.12-09.02.57:533][ 31]LogEditorViewport: Clicking on Actor (LMB): ExponentialHeightFog (ExponentialHeightFog)
+[2018.12.12-09.02.58:882][128]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.12-09.03.09:570][978]LogEditorViewport: Clicking on Actor (LMB): DirectionalLight (Light Source)
+[2018.12.12-09.03.11:141][ 92]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2018.12.12-09.03.12:248][164]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.12-09.03.12:335][173]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.12-09.03.12:349][173]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Root/Assets/Maps/Bridge.Bridge:PersistentLevel' has LevelScriptBlueprint '/Game/Root/Assets/Maps/Bridge.Bridge:PersistentLevel.Bridge' with GeneratedClass '/Game/Root/Assets/Maps/Bridge.Bridge_C' with ClassGeneratedBy '/Game/Root/Assets/Maps/Bridge.Bridge:PersistentLevel.Bridge'
+[2018.12.12-09.03.12:350][173]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.12-09.03.12:351][173]PIE: New page: PIE session: Bridge (Dec 12, 2018, 11:03:12 AM)
+[2018.12.12-09.03.12:365][173]LogPlayLevel: Creating play world package: /Game/Root/Assets/Maps/UEDPIE_0_Bridge
+[2018.12.12-09.03.12:595][173]LogPlayLevel: PIE: StaticDuplicateObject took: (0.228720s)
+[2018.12.12-09.03.12:595][173]LogAIModule: Creating AISystem for world Bridge
+[2018.12.12-09.03.12:595][173]LogPlayLevel: PIE: World Init took: (0.000787s)
+[2018.12.12-09.03.12:595][173]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Root/Assets/Maps/Bridge.Bridge to /Game/Root/Assets/Maps/UEDPIE_0_Bridge.Bridge (0.229926s)
+[2018.12.12-09.03.12:688][173]LogInit: XAudio2 using 'Hörlurar (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.12.12-09.03.12:712][173]LogInit: FAudioDevice initialized.
+[2018.12.12-09.03.13:079][173]LogLoad: Game class is 'Core_GameMode_C'
+[2018.12.12-09.03.13:093][173]LogWorld: Bringing World /Game/Root/Assets/Maps/UEDPIE_0_Bridge.Bridge up for play (max tick rate 0) at 2018.12.12-10.03.13
+[2018.12.12-09.03.13:094][173]LogWorld: Bringing up level for play took: 0.012925
+[2018.12.12-09.03.13:121][173]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 20 classes and 0 folders.
+[2018.12.12-09.03.13:129][173]PIE: Play in editor start time for /Game/Root/Assets/Maps/UEDPIE_0_Bridge 1.319
+[2018.12.12-09.03.13:129][173]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Root/Assets/Maps/Bridge.Bridge:PersistentLevel' has LevelScriptBlueprint '/Game/Root/Assets/Maps/Bridge.Bridge:PersistentLevel.Bridge' with GeneratedClass '/Game/Root/Assets/Maps/Bridge.Bridge_C' with ClassGeneratedBy '/Game/Root/Assets/Maps/Bridge.Bridge:PersistentLevel.Bridge'
+[2018.12.12-09.03.31:357][282]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Root/Assets/Maps/Bridge.Bridge:PersistentLevel' has LevelScriptBlueprint '/Game/Root/Assets/Maps/Bridge.Bridge:PersistentLevel.Bridge' with GeneratedClass '/Game/Root/Assets/Maps/Bridge.Bridge_C' with ClassGeneratedBy '/Game/Root/Assets/Maps/Bridge.Bridge:PersistentLevel.Bridge'
+[2018.12.12-09.03.31:358][282]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.12-09.03.31:400][282]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.12-09.03.31:400][282]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Root/Assets/Maps/Bridge.Bridge:PersistentLevel' has LevelScriptBlueprint '/Game/Root/Assets/Maps/Bridge.Bridge:PersistentLevel.Bridge' with GeneratedClass '/Game/Root/Assets/Maps/Bridge.Bridge_C' with ClassGeneratedBy '/Game/Root/Assets/Maps/Bridge.Bridge:PersistentLevel.Bridge'
+[2018.12.12-09.03.31:434][282]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.12-09.03.31:470][283]LogPlayLevel: Display: Destroying online subsystem :Context_2
+[2018.12.12-09.04.09:539][791]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.12-09.04.10:601][791]LogSavePackage: Moving 'D:/TGA PROJECTS/FantasyBridge/UE_FantasyBridge/Saved/Bridge_Auto1701F85544888F88F6E160A94046BA396.tmp' to 'D:/TGA PROJECTS/FantasyBridge/UE_FantasyBridge/Saved/Autosaves/Game/Root/Assets/Maps/Bridge_Auto1.umap'
+[2018.12.12-09.04.10:606][791]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Root/Assets/Maps/Bridge' took 1.047
+[2018.12.12-09.04.10:606][791]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 1.047
+[2018.12.12-09.04.21:033][730]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.12-09.04.21:178][743]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.12-09.04.21:192][743]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Root/Assets/Maps/Bridge.Bridge:PersistentLevel' has LevelScriptBlueprint '/Game/Root/Assets/Maps/Bridge.Bridge:PersistentLevel.Bridge' with GeneratedClass '/Game/Root/Assets/Maps/Bridge.Bridge_C' with ClassGeneratedBy '/Game/Root/Assets/Maps/Bridge.Bridge:PersistentLevel.Bridge'
+[2018.12.12-09.04.21:192][743]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.12-09.04.21:192][743]PIE: New page: PIE session: Bridge (Dec 12, 2018, 11:04:21 AM)
+[2018.12.12-09.04.21:193][743]LogPlayLevel: Creating play world package: /Game/Root/Assets/Maps/UEDPIE_0_Bridge
+[2018.12.12-09.04.21:384][743]LogPlayLevel: PIE: StaticDuplicateObject took: (0.191563s)
+[2018.12.12-09.04.21:385][743]LogAIModule: Creating AISystem for world Bridge
+[2018.12.12-09.04.21:385][743]LogPlayLevel: PIE: World Init took: (0.000705s)
+[2018.12.12-09.04.21:385][743]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Root/Assets/Maps/Bridge.Bridge to /Game/Root/Assets/Maps/UEDPIE_0_Bridge.Bridge (0.192458s)
+[2018.12.12-09.04.21:484][743]LogInit: XAudio2 using 'Hörlurar (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.12.12-09.04.21:507][743]LogInit: FAudioDevice initialized.
+[2018.12.12-09.04.21:545][743]LogLoad: Game class is 'Core_GameMode_C'
+[2018.12.12-09.04.21:558][743]LogWorld: Bringing World /Game/Root/Assets/Maps/UEDPIE_0_Bridge.Bridge up for play (max tick rate 0) at 2018.12.12-10.04.21
+[2018.12.12-09.04.21:558][743]LogWorld: Bringing up level for play took: 0.012596
+[2018.12.12-09.04.21:572][743]PIE: Play in editor start time for /Game/Root/Assets/Maps/UEDPIE_0_Bridge -0.238
+[2018.12.12-09.04.21:573][743]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Root/Assets/Maps/Bridge.Bridge:PersistentLevel' has LevelScriptBlueprint '/Game/Root/Assets/Maps/Bridge.Bridge:PersistentLevel.Bridge' with GeneratedClass '/Game/Root/Assets/Maps/Bridge.Bridge_C' with ClassGeneratedBy '/Game/Root/Assets/Maps/Bridge.Bridge:PersistentLevel.Bridge'
+[2018.12.12-09.04.40:364][937]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Root/Assets/Maps/Bridge.Bridge:PersistentLevel' has LevelScriptBlueprint '/Game/Root/Assets/Maps/Bridge.Bridge:PersistentLevel.Bridge' with GeneratedClass '/Game/Root/Assets/Maps/Bridge.Bridge_C' with ClassGeneratedBy '/Game/Root/Assets/Maps/Bridge.Bridge:PersistentLevel.Bridge'
+[2018.12.12-09.04.40:364][937]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.12-09.04.40:407][937]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.12-09.04.40:408][937]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Root/Assets/Maps/Bridge.Bridge:PersistentLevel' has LevelScriptBlueprint '/Game/Root/Assets/Maps/Bridge.Bridge:PersistentLevel.Bridge' with GeneratedClass '/Game/Root/Assets/Maps/Bridge.Bridge_C' with ClassGeneratedBy '/Game/Root/Assets/Maps/Bridge.Bridge:PersistentLevel.Bridge'
+[2018.12.12-09.04.40:441][937]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.12-09.04.40:471][938]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2018.12.12-09.04.50:106][824]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.12-09.04.54:311][167]LogTexture: Display: Building textures: Texture2D_2 (G8, 128X128)
+[2018.12.12-09.05.00:009][657]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.12-09.05.12:362][729]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.12-09.06.10:414][714]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.12-09.06.15:612][120]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.12-09.06.17:547][259]LogEditorViewport: Clicking on Actor (LMB): SkyLight (SkyLight)
+[2018.12.12-09.06.20:234][456]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2018.12.12-09.06.20:895][499]LogEditorViewport: Clicking on Actor (LMB): ExponentialHeightFog (ExponentialHeightFog)
+[2018.12.12-09.06.56:207][194]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.12-09.07.00:931][546]Cmd: TRANSACTION UNDO
+[2018.12.12-09.07.00:931][546]LogEditorTransaction: Undo Edit Fog Density
+[2018.12.12-09.07.27:621][495]LogEditorViewport: Clicking Background
+[2018.12.12-09.07.30:561][757]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.12-09.07.30:684][767]LogEditorViewport: Clicking on Actor (LMB): DirectionalLight (Light Source)
+[2018.12.12-09.07.32:630][908]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2018.12.12-09.07.34:310][ 24]LogEditorViewport: Clicking on Actor (LMB): ExponentialHeightFog (ExponentialHeightFog)
+[2018.12.12-09.07.37:914][282]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.12-09.08.43:421][254]LogActorComponent: UnregisterComponent: (/Engine/Transient.SphereBrushComponent) Not registered. Aborting.
+[2018.12.12-09.08.51:810][925]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.12-09.08.51:826][925]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Root/Assets/Maps/Bridge.Bridge:PersistentLevel' has LevelScriptBlueprint '/Game/Root/Assets/Maps/Bridge.Bridge:PersistentLevel.Bridge' with GeneratedClass '/Game/Root/Assets/Maps/Bridge.Bridge_C' with ClassGeneratedBy '/Game/Root/Assets/Maps/Bridge.Bridge:PersistentLevel.Bridge'
+[2018.12.12-09.08.51:826][925]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.12-09.08.51:826][925]PIE: New page: PIE session: Bridge (Dec 12, 2018, 11:08:51 AM)
+[2018.12.12-09.08.51:826][925]LogPlayLevel: Creating play world package: /Game/Root/Assets/Maps/UEDPIE_0_Bridge
+[2018.12.12-09.08.52:033][925]LogPlayLevel: PIE: StaticDuplicateObject took: (0.206465s)
+[2018.12.12-09.08.52:033][925]LogAIModule: Creating AISystem for world Bridge
+[2018.12.12-09.08.52:034][925]LogPlayLevel: PIE: World Init took: (0.000840s)
+[2018.12.12-09.08.52:034][925]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Root/Assets/Maps/Bridge.Bridge to /Game/Root/Assets/Maps/UEDPIE_0_Bridge.Bridge (0.207530s)
+[2018.12.12-09.08.52:141][925]LogInit: XAudio2 using 'Hörlurar (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.12.12-09.08.52:166][925]LogInit: FAudioDevice initialized.
+[2018.12.12-09.08.52:202][925]LogLoad: Game class is 'Core_GameMode_C'
+[2018.12.12-09.08.52:215][925]LogWorld: Bringing World /Game/Root/Assets/Maps/UEDPIE_0_Bridge.Bridge up for play (max tick rate 0) at 2018.12.12-10.08.52
+[2018.12.12-09.08.52:216][925]LogWorld: Bringing up level for play took: 0.012721
+[2018.12.12-09.08.52:235][925]PIE: Play in editor start time for /Game/Root/Assets/Maps/UEDPIE_0_Bridge 0.424
+[2018.12.12-09.08.52:236][925]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Root/Assets/Maps/Bridge.Bridge:PersistentLevel' has LevelScriptBlueprint '/Game/Root/Assets/Maps/Bridge.Bridge:PersistentLevel.Bridge' with GeneratedClass '/Game/Root/Assets/Maps/Bridge.Bridge_C' with ClassGeneratedBy '/Game/Root/Assets/Maps/Bridge.Bridge:PersistentLevel.Bridge'
+[2018.12.12-09.09.04:156][215]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Root/Assets/Maps/Bridge.Bridge:PersistentLevel' has LevelScriptBlueprint '/Game/Root/Assets/Maps/Bridge.Bridge:PersistentLevel.Bridge' with GeneratedClass '/Game/Root/Assets/Maps/Bridge.Bridge_C' with ClassGeneratedBy '/Game/Root/Assets/Maps/Bridge.Bridge:PersistentLevel.Bridge'
+[2018.12.12-09.09.04:157][215]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.12-09.09.04:196][215]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.12-09.09.04:197][215]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Root/Assets/Maps/Bridge.Bridge:PersistentLevel' has LevelScriptBlueprint '/Game/Root/Assets/Maps/Bridge.Bridge:PersistentLevel.Bridge' with GeneratedClass '/Game/Root/Assets/Maps/Bridge.Bridge_C' with ClassGeneratedBy '/Game/Root/Assets/Maps/Bridge.Bridge:PersistentLevel.Bridge'
+[2018.12.12-09.09.04:230][215]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.12-09.09.04:263][216]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2018.12.12-09.09.08:809][597]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.12-09.09.40:513][224]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.12-09.09.45:542][623]Cmd: TRANSACTION UNDO
+[2018.12.12-09.09.45:542][623]LogEditorTransaction: Undo Landscape Editing: Paint
+[2018.12.12-09.11.11:848][605]Cmd: TRANSACTION UNDO
+[2018.12.12-09.11.11:848][605]LogEditorTransaction: Undo Landscape Editing: Paint
+[2018.12.12-09.11.11:969][605]LogTexture: Display: Building textures: Texture2D_20 (BGRA8, 128X128)
+[2018.12.12-09.11.12:004][605]LogTexture: Display: Building textures: Texture2D_10 (BGRA8, 128X128)
+[2018.12.12-09.11.14:160][777]Cmd: TRANSACTION UNDO
+[2018.12.12-09.11.14:160][777]LogEditorTransaction: Undo Landscape Editing: Paint
+[2018.12.12-09.11.14:226][777]LogTexture: Display: Building textures: Texture2D_10 (BGRA8, 128X128)
+[2018.12.12-09.11.14:260][777]LogTexture: Display: Building textures: Texture2D_20 (BGRA8, 128X128)
+[2018.12.12-09.11.47:638][929]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.12-09.11.53:044][367]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.12-09.12.21:113][467]LogSlate: Window 'Color Picker' being destroyed
+[2018.12.12-09.12.21:259][476]LogSlate: Took 0.001567 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.12.12-09.12.31:979][282]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.12-09.12.39:063][748]LogEditorViewport: Clicking on Actor (LMB): AtmosphericFog (AtmosphericFog)
+[2018.12.12-09.12.43:011][ 18]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.12-09.12.49:548][469]LogEditorViewport: Clicking on Actor (LMB): ExponentialHeightFog (ExponentialHeightFog)
+[2018.12.12-09.12.52:392][670]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.12-09.13.41:833][208]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.12-09.13.47:411][523]LogEditorViewport: Clicking Background
+[2018.12.12-09.13.48:568][617]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.12-09.13.48:674][625]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.12.12-09.13.51:177][798]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.12-09.14.27:088][354]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.12-09.14.34:187][824]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.12-09.14.38:951][158]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.12-09.15.00:927][738]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.12-09.15.42:863][650]LogEditorViewport: Clicking on Actor (LMB): ExponentialHeightFog (ExponentialHeightFog)
+[2018.12.12-09.16.01:943][ 86]LogEditorViewport: Clicking on Actor (LMB): AtmosphericFog (AtmosphericFog)
+[2018.12.12-09.16.22:830][676]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.12-09.16.37:241][673]LogEditorViewport: Clicking on Actor (LMB): SkyLight (SkyLight)
+[2018.12.12-09.16.40:418][899]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.12-09.16.45:279][189]LogSlate: Window 'Color Picker' being destroyed
+[2018.12.12-09.17.07:535][821]Cmd: TRANSACTION UNDO
+[2018.12.12-09.17.07:535][821]LogEditorTransaction: Undo Reset to Default
+[2018.12.12-09.17.17:824][553]LogEditorViewport: Clicking on Actor (LMB): AtmosphericFog (AtmosphericFog)
+[2018.12.12-09.17.23:908][997]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.12-09.17.33:149][630]LogEditorViewport: Clicking on Actor (LMB): ExponentialHeightFog (ExponentialHeightFog)
+[2018.12.12-09.17.37:263][929]LogEditorViewport: Clicking on Actor (LMB): SkyLight (SkyLight)
+[2018.12.12-09.17.39:985][115]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.12-09.18.13:354][538]Cmd: DELETE
+[2018.12.12-09.18.13:354][538]Cmd: ACTOR DELETE
+[2018.12.12-09.18.13:658][538]LogEditorActor: Deleted Actor: Brush
+[2018.12.12-09.18.13:827][538]LogEditorActor: Deleted 1 Actors (0.472 secs)
+[2018.12.12-09.18.14:621][599]Cmd: TRANSACTION UNDO
+[2018.12.12-09.18.14:621][599]LogEditorTransaction: Undo Delete Actors
+[2018.12.12-09.18.25:273][302]Cmd: TRANSACTION UNDO
+[2018.12.12-09.18.25:273][302]LogEditorTransaction: Undo Move Actors
+[2018.12.12-09.18.29:761][577]Cmd: TRANSACTION UNDO
+[2018.12.12-09.18.29:761][577]LogEditorTransaction: Undo Move Actors
+[2018.12.12-09.18.41:271][279]Cmd: TRANSACTION UNDO
+[2018.12.12-09.18.41:271][279]LogEditorTransaction: Undo Move Actors
+[2018.12.12-09.18.41:684][282]Cmd: TRANSACTION UNDO
+[2018.12.12-09.18.41:684][282]LogEditorTransaction: Undo Move Actors
+[2018.12.12-09.18.42:433][303]Cmd: TRANSACTION UNDO
+[2018.12.12-09.18.42:433][303]LogEditorTransaction: Undo Move Actors
+[2018.12.12-09.18.43:441][349]Cmd: TRANSACTION UNDO
+[2018.12.12-09.18.43:441][349]LogEditorTransaction: Undo Move Actors
+[2018.12.12-09.18.44:150][377]Cmd: TRANSACTION UNDO
+[2018.12.12-09.18.44:150][377]LogEditorTransaction: Undo Move Actors
+[2018.12.12-09.18.45:065][417]Cmd: TRANSACTION UNDO
+[2018.12.12-09.18.45:065][417]LogEditorTransaction: Undo Select Brush Surface
+[2018.12.12-09.18.45:783][449]Cmd: TRANSACTION UNDO
+[2018.12.12-09.18.45:784][449]LogEditorTransaction: Undo Select Brush Surface
+[2018.12.12-09.18.46:403][476]Cmd: TRANSACTION UNDO
+[2018.12.12-09.18.46:403][476]LogEditorTransaction: Undo Move Actors
+[2018.12.12-09.18.54:303][935]Cmd: TRANSACTION UNDO
+[2018.12.12-09.18.54:304][935]LogEditorTransaction: Undo Move Actors
+[2018.12.12-09.19.01:126][275]Cmd: TRANSACTION UNDO
+[2018.12.12-09.19.01:126][275]LogEditorTransaction: Undo Move Actors
+[2018.12.12-09.19.05:467][496]Cmd: TRANSACTION UNDO
+[2018.12.12-09.19.05:467][496]LogEditorTransaction: Undo Move Actors
+[2018.12.12-09.19.17:407][273]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2018.12.12-09.19.17:803][291]LogEditorViewport: Clicking on Actor (LMB): DirectionalLight (Light Source)
+[2018.12.12-09.19.19:510][415]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.12-09.19.24:480][719]LogSlate: Window 'Color Picker' being destroyed
+[2018.12.12-09.19.28:927][  5]LogSlate: Window 'Color Picker' being destroyed
+[2018.12.12-09.19.34:097][369]LogEditorViewport: Clicking on Actor (LMB): AtmosphericFog (AtmosphericFog)
+[2018.12.12-09.19.36:491][542]LogEditorViewport: Clicking on Actor (LMB): DirectionalLight (Light Source)
+[2018.12.12-09.19.41:786][927]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.12-09.19.45:113][181]Cmd: TRANSACTION UNDO
+[2018.12.12-09.19.45:113][181]LogEditorTransaction: Undo Reset to Default
+[2018.12.12-09.19.51:558][646]LogSlate: Window 'Color Picker' being destroyed
+[2018.12.12-09.20.03:792][568]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.12.12-09.20.07:681][853]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.12-09.20.10:751][ 59]LogSlate: Window 'Color Picker' being destroyed
+[2018.12.12-09.20.20:172][637]LogSlate: Window 'Color Picker' being destroyed
+[2018.12.12-09.20.31:073][346]LogSlate: Window 'Color Picker' being destroyed
+[2018.12.12-09.20.33:710][533]LogSlate: Window 'Color Picker' being destroyed
+[2018.12.12-09.20.40:769][989]LogSlate: Window 'Color Picker' being destroyed
+[2018.12.12-09.20.44:158][232]MapCheck: New page: Map Check
+[2018.12.12-09.20.44:182][232]Cmd: MAP REBUILD ALLVISIBLE
+[2018.12.12-09.20.44:190][232]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2018.12.12-09.20.44:648][232]LogEditorServer: Cleared 5 NULL BSP materials after rebuild.
+[2018.12.12-09.20.44:814][232]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy MaterialInstanceDynamic_0, compiling. 
+[2018.12.12-09.20.44:833][232]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy LandscapeGizmo_Mat, compiling. 
+[2018.12.12-09.20.44:846][232]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.12.12-09.20.44:846][232]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy MatineeCam_mat, compiling. 
+[2018.12.12-09.20.44:879][232]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.12.12-09.20.44:879][232]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.12.12-09.20.44:879][232]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy CubeMaterial, compiling. 
+[2018.12.12-09.20.44:893][232]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy WorldGridMaterial, compiling. Is special engine material.
+[2018.12.12-09.20.44:908][232]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_UE4Man_Body, compiling. 
+[2018.12.12-09.20.44:927][232]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_UE4Man_ChestLogo, compiling. 
+[2018.12.12-09.20.44:940][232]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_iceblue_Color_Inst, compiling. 
+[2018.12.12-09.20.44:953][232]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Frame, compiling. 
+[2018.12.12-09.20.44:964][232]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy RampMaterial, compiling. 
+[2018.12.12-09.20.44:976][232]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy BasicShapeMaterial, compiling. 
+[2018.12.12-09.20.46:629][232]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.12.12-09.20.46:629][232]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.12.12-09.20.46:629][232]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.12.12-09.20.46:629][232]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.12.12-09.20.46:630][232]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.12.12-09.20.46:630][232]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.12.12-09.20.46:630][232]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.12.12-09.20.46:630][232]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.12.12-09.20.46:630][232]TextureStreamingBuild: Display: Compiling optional shaders took 1.827 seconds.
+[2018.12.12-09.20.46:646][232]LogLevel: Display: Export Material TexCoord Scales took 0.017 seconds.
+[2018.12.12-09.20.46:690][232]TextureStreamingBuild: Display: Build Texture Streaming took 0.043 seconds.
+[2018.12.12-09.20.46:720][232]LightingResults: New page: Lighting Build - Dec 12, 2018, 11:20:46 AM
+[2018.12.12-09.20.46:849][232]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2018.12.12-09.20.46:986][232]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2018.12.12-09.20.47:123][232]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2018.12.12-09.20.48:182][232]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2018.12.12-09.20.48:182][232]LogSwarmInterface: [TryOpenConnection] Local Process ID is 8136
+[2018.12.12-09.20.51:025][232]LightingResults: Warning: No importance volume found and the scene is so large that the automatically synthesized volume will not yield good results.  Please add a tightly bounding lightmass importance volume to optimize your scene's quality and lighting build times.
+[2018.12.12-09.20.51:026][232]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2018.12.12-09.20.51:026][232]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2018.12.12-09.20.51:026][232]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2018.12.12-09.20.51:026][232]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2018.12.12-09.20.51:026][232]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2018.12.12-09.20.51:260][232]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2018.12.12-09.20.51:260][232]MapCheck: New page: Bridge - Dec 12, 2018, 11:20:51 AM
+[2018.12.12-09.20.51:263][232]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 2.79ms to complete.
+[2018.12.12-09.20.51:287][232]LogEditorBuildUtils: Build time 0:07
+[2018.12.12-09.20.53:266][297]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_iceblue_Color_Inst, compiling. 
+[2018.12.12-09.20.53:281][297]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_iceblue_Color_Inst, compiling. 
+[2018.12.12-09.20.53:293][298]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.12.12-09.20.53:294][298]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.12.12-09.21.29:964][778]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2018.12.12-09.21.29:973][778]LogTexture: Display: Building textures: Texture2D_1 (BGRA8, 512X512)
+[2018.12.12-09.21.29:983][778]LogTexture: Display: Building textures: Texture2D_10 (BGRA8, 128X128)
+[2018.12.12-09.21.29:984][778]LogTexture: Display: Building textures: Texture2D_20 (BGRA8, 128X128)
+[2018.12.12-09.21.29:985][778]LogTexture: Display: Building textures: Texture2D_21 (BGRA8, 128X128)
+[2018.12.12-09.21.29:987][778]LogTexture: Display: Building textures: Texture2D_12 (BGRA8, 128X128)
+[2018.12.12-09.21.29:988][778]LogTexture: Display: Building textures: Texture2D_2 (BGRA8, 512X512)
+[2018.12.12-09.21.29:999][778]LogTexture: Display: Building textures: Texture2D_3 (BGRA8, 512X512)
+[2018.12.12-09.21.31:016][778]LogSavePackage: Moving 'D:/TGA PROJECTS/FantasyBridge/UE_FantasyBridge/Saved/Bridge_Auto29864BBA14A73664987A681AE1521A8CF.tmp' to 'D:/TGA PROJECTS/FantasyBridge/UE_FantasyBridge/Saved/Autosaves/Game/Root/Assets/Maps/Bridge_Auto2.umap'
+[2018.12.12-09.21.31:021][778]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Root/Assets/Maps/Bridge' took 1.367
+[2018.12.12-09.21.31:021][778]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 1.367
+[2018.12.12-09.21.52:511][739]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.12-09.21.55:465][886]LogActorComponent: UnregisterComponent: (/Engine/Transient.SphereBrushComponent) Not registered. Aborting.
+[2018.12.12-09.22.03:904][285]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.12-09.22.16:297][934]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.12-09.22.18:535][ 41]Cmd: TRANSACTION UNDO
+[2018.12.12-09.22.18:535][ 41]LogEditorTransaction: Undo Landscape Editing: Paint
+[2018.12.12-09.22.22:485][226]Cmd: TRANSACTION UNDO
+[2018.12.12-09.22.22:485][226]LogEditorTransaction: Undo Landscape Editing: Paint
+[2018.12.12-09.22.44:905][477]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.12-09.22.49:634][720]Cmd: TRANSACTION UNDO
+[2018.12.12-09.22.49:635][720]LogEditorTransaction: Undo Landscape Editing: Paint
+[2018.12.12-09.22.49:704][720]LogTexture: Display: Building textures: Texture2D_21 (BGRA8, 128X128)
+[2018.12.12-09.22.50:591][756]Cmd: TRANSACTION UNDO
+[2018.12.12-09.22.50:591][756]LogEditorTransaction: Undo Landscape Editing: Paint
+[2018.12.12-09.22.53:299][880]Cmd: TRANSACTION UNDO
+[2018.12.12-09.22.53:299][880]LogEditorTransaction: Undo Landscape Editing: Paint
+[2018.12.12-09.22.56:432][ 11]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.12-09.23.02:289][290]Cmd: TRANSACTION UNDO
+[2018.12.12-09.23.02:289][290]LogEditorTransaction: Undo Landscape Editing: Paint
+[2018.12.12-09.23.02:686][298]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.12-09.23.05:552][430]Cmd: TRANSACTION UNDO
+[2018.12.12-09.23.05:552][430]LogEditorTransaction: Undo Landscape Editing: Paint
+[2018.12.12-09.23.06:751][472]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.12-09.23.13:407][833]Cmd: TRANSACTION UNDO
+[2018.12.12-09.23.13:407][833]LogEditorTransaction: Undo Landscape Editing: Paint
+[2018.12.12-09.23.13:467][833]LogTexture: Display: Building textures: Texture2D_21 (BGRA8, 128X128)
+[2018.12.12-09.23.16:923][ 12]Cmd: TRANSACTION UNDO
+[2018.12.12-09.23.16:923][ 12]LogEditorTransaction: Undo Landscape Editing: Paint
+[2018.12.12-09.23.18:916][ 94]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.12-09.23.25:374][431]Cmd: TRANSACTION UNDO
+[2018.12.12-09.23.25:374][431]LogEditorTransaction: Undo Landscape Editing: Paint
+[2018.12.12-09.23.40:042][246]Cmd: TRANSACTION UNDO
+[2018.12.12-09.23.40:042][246]LogEditorTransaction: Undo Landscape Editing: Paint
+[2018.12.12-09.23.40:100][246]LogTexture: Display: Building textures: Texture2D_21 (BGRA8, 128X128)
+[2018.12.12-09.23.40:623][264]Cmd: TRANSACTION UNDO
+[2018.12.12-09.23.40:623][264]LogEditorTransaction: Undo Landscape Editing: Paint
+[2018.12.12-09.23.40:678][264]LogTexture: Display: Building textures: Texture2D_21 (BGRA8, 128X128)
+[2018.12.12-09.23.41:149][285]Cmd: TRANSACTION UNDO
+[2018.12.12-09.23.41:150][285]LogEditorTransaction: Undo Landscape Editing: Paint
+[2018.12.12-09.23.41:210][285]LogTexture: Display: Building textures: Texture2D_21 (BGRA8, 128X128)
+[2018.12.12-09.23.49:874][755]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.12-09.24.38:977][330]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.12-09.24.40:085][376]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.12.12-09.24.46:553][617]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.12.12-09.24.54:034][911]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.12.12-09.25.20:433][981]Cmd: TRANSACTION UNDO
+[2018.12.12-09.25.20:433][981]LogEditorTransaction: Undo Move Actors
+[2018.12.12-09.25.25:293][162]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.12.12-09.25.39:281][770]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.12.12-09.26.17:768][230]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.12-09.28.22:386][642]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.12-09.28.30:312][995]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.12-09.28.45:414][658]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.12-09.28.50:892][885]Cmd: TRANSACTION UNDO
+[2018.12.12-09.28.50:893][885]LogEditorTransaction: Undo Landscape Editing: Add ramp
+[2018.12.12-09.29.10:366][804]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.12-09.29.28:230][711]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.12-09.29.55:346][ 71]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.12-09.30.08:778][842]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.12-09.30.18:000][395]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.12-09.30.40:309][977]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.12-09.30.43:185][146]LogActorComponent: UnregisterComponent: (/Engine/Transient.SphereBrushComponent) Not registered. Aborting.
+[2018.12.12-09.31.00:962][ 60]Cmd: TRANSACTION UNDO
+[2018.12.12-09.31.00:962][ 60]LogEditorTransaction: Undo Landscape Editing: Paint
+[2018.12.12-09.31.36:780][962]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.12-09.31.50:089][724]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.12-09.31.50:279][724]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.12-09.31.50:315][724]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Root/Assets/Maps/Bridge" FILE="D:/TGA PROJECTS/FantasyBridge/UE_FantasyBridge/Content/Root/Assets/Maps/Bridge.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.12.12-09.31.50:760][724]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2018.12.12-09.31.50:779][724]LogTexture: Display: Building textures: Texture2D_10 (BGRA8, 128X128)
+[2018.12.12-09.31.50:781][724]LogTexture: Display: Building textures: Texture2D_20 (BGRA8, 128X128)
+[2018.12.12-09.31.50:783][724]LogTexture: Display: Building textures: Texture2D_12 (BGRA8, 128X128)
+[2018.12.12-09.31.50:784][724]LogTexture: Display: Building textures: Texture2D_2 (BGRA8, 512X512)
+[2018.12.12-09.31.50:793][724]LogTexture: Display: Building textures: Texture2D_3 (BGRA8, 512X512)
+[2018.12.12-09.31.52:379][724]LogSavePackage: Moving 'D:/TGA PROJECTS/FantasyBridge/UE_FantasyBridge/Saved/BridgeD8403DDE47C80BE78BD3578DEBC30A49.tmp' to 'D:/TGA PROJECTS/FantasyBridge/UE_FantasyBridge/Content/Root/Assets/Maps/Bridge.umap'
+[2018.12.12-09.31.52:601][724]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Root/Assets/Maps/Bridge_BuiltData" FILE="D:/TGA PROJECTS/FantasyBridge/UE_FantasyBridge/Content/Root/Assets/Maps/Bridge_BuiltData.uasset" SILENT=true
+[2018.12.12-09.31.53:644][724]LogSavePackage: Moving 'D:/TGA PROJECTS/FantasyBridge/UE_FantasyBridge/Saved/Bridge_BuiltData243AD6AE40FBC8B0D4618DACCBCD13CA.tmp' to 'D:/TGA PROJECTS/FantasyBridge/UE_FantasyBridge/Content/Root/Assets/Maps/Bridge_BuiltData.uasset'
+[2018.12.12-09.32.05:404][375]Job is a success!
+[2018.12.12-09.32.05:964][376]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.293s
+[2018.12.12-09.32.05:964][376]LogVolumetricLightmapImport:      Indirection Texture 32x32x32 = 0.1Mb
+[2018.12.12-09.32.05:964][376]LogVolumetricLightmapImport:      BrickData 895x5x5 = 0.8Mb (trimmed 4.6Mb due to 0.010000 MinBrickError)
+[2018.12.12-09.32.05:964][376]LogVolumetricLightmapImport:      Bricks at Level
+[2018.12.12-09.32.05:964][376]LogVolumetricLightmapImport:          0: 4.5% covering 100.0% of volume
+[2018.12.12-09.32.05:964][376]LogVolumetricLightmapImport:          1: 65.4% covering 22.9% of volume
+[2018.12.12-09.32.05:964][376]LogVolumetricLightmapImport:          2: 30.2% covering 0.2% of volume
+[2018.12.12-09.32.06:486][376]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 256X256)
+[2018.12.12-09.32.06:486][376]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 256X256)
+[2018.12.12-09.32.06:486][376]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 256X256)
+[2018.12.12-09.32.06:486][376]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 256X256)
+[2018.12.12-09.32.06:486][376]LogTexture: Display: Building textures: HQ_Lightmap1_3 (AutoDXT, 256X256)
+[2018.12.12-09.32.06:486][376]LogTexture: Display: Building textures: LQ_Lightmap_1_3 (DXT1, 256X256)
+[2018.12.12-09.32.06:486][376]LogTexture: Display: Building textures: HQ_Lightmap1_4 (AutoDXT, 256X256)
+[2018.12.12-09.32.06:486][376]LogTexture: Display: Building textures: LQ_Lightmap_1_4 (DXT1, 256X256)
+[2018.12.12-09.32.06:486][376]LogTexture: Display: Building textures: HQ_Lightmap1_5 (AutoDXT, 256X256)
+[2018.12.12-09.32.06:486][376]LogTexture: Display: Building textures: LQ_Lightmap_1_5 (DXT1, 256X256)
+[2018.12.12-09.32.06:486][376]LogTexture: Display: Building textures: HQ_Lightmap1_6 (AutoDXT, 256X256)
+[2018.12.12-09.32.06:486][376]LogTexture: Display: Building textures: LQ_Lightmap_1_6 (DXT1, 256X256)
+[2018.12.12-09.32.06:486][376]LogTexture: Display: Building textures: HQ_Lightmap1_7 (AutoDXT, 256X256)
+[2018.12.12-09.32.06:486][376]LogTexture: Display: Building textures: LQ_Lightmap_1_7 (DXT1, 256X256)
+[2018.12.12-09.32.06:486][376]LogTexture: Display: Building textures: HQ_Lightmap1_8 (AutoDXT, 256X256)
+[2018.12.12-09.32.06:487][376]LogTexture: Display: Building textures: LQ_Lightmap_1_8 (DXT1, 256X256)
+[2018.12.12-09.32.06:487][376]LogTexture: Display: Building textures: HQ_Lightmap1_9 (AutoDXT, 256X256)
+[2018.12.12-09.32.06:487][376]LogTexture: Display: Building textures: LQ_Lightmap_1_9 (DXT1, 256X256)
+[2018.12.12-09.32.06:487][376]LogTexture: Display: Building textures: HQ_Lightmap1_10 (AutoDXT, 256X256)
+[2018.12.12-09.32.06:487][376]LogTexture: Display: Building textures: LQ_Lightmap_1_10 (DXT1, 256X256)
+[2018.12.12-09.32.06:487][376]LogTexture: Display: Building textures: HQ_Lightmap1_11 (AutoDXT, 512X512)
+[2018.12.12-09.32.06:487][376]LogTexture: Display: Building textures: LQ_Lightmap_1_11 (DXT1, 512X512)
+[2018.12.12-09.32.06:487][376]LogTexture: Display: Building textures: HQ_Lightmap1_12 (AutoDXT, 256X256)
+[2018.12.12-09.32.06:487][376]LogTexture: Display: Building textures: LQ_Lightmap_1_12 (DXT1, 256X256)
+[2018.12.12-09.32.06:487][376]LogTexture: Display: Building textures: HQ_Lightmap1_13 (AutoDXT, 256X256)
+[2018.12.12-09.32.06:487][376]LogTexture: Display: Building textures: LQ_Lightmap_1_13 (DXT1, 256X256)
+[2018.12.12-09.32.06:487][376]LogTexture: Display: Building textures: HQ_Lightmap1_14 (AutoDXT, 256X256)
+[2018.12.12-09.32.06:487][376]LogTexture: Display: Building textures: LQ_Lightmap_1_14 (DXT1, 256X256)
+[2018.12.12-09.32.06:487][376]LogTexture: Display: Building textures: HQ_Lightmap1_15 (AutoDXT, 256X256)
+[2018.12.12-09.32.06:487][376]LogTexture: Display: Building textures: LQ_Lightmap_1_15 (DXT1, 256X256)
+[2018.12.12-09.32.06:487][376]LogTexture: Display: Building textures: HQ_Lightmap1_16 (AutoDXT, 256X256)
+[2018.12.12-09.32.06:487][376]LogTexture: Display: Building textures: LQ_Lightmap_1_16 (DXT1, 256X256)
+[2018.12.12-09.32.06:487][376]LogTexture: Display: Building textures: HQ_Lightmap1_17 (AutoDXT, 256X256)
+[2018.12.12-09.32.06:487][376]LogTexture: Display: Building textures: LQ_Lightmap_1_17 (DXT1, 256X256)
+[2018.12.12-09.32.06:487][376]LogTexture: Display: Building textures: HQ_Lightmap1_18 (AutoDXT, 256X256)
+[2018.12.12-09.32.06:487][376]LogTexture: Display: Building textures: LQ_Lightmap_1_18 (DXT1, 256X256)
+[2018.12.12-09.32.06:488][376]LogTexture: Display: Building textures: HQ_Lightmap1_19 (AutoDXT, 256X256)
+[2018.12.12-09.32.06:488][376]LogTexture: Display: Building textures: LQ_Lightmap_1_19 (DXT1, 256X256)
+[2018.12.12-09.32.06:488][376]LogTexture: Display: Building textures: HQ_Lightmap1_20 (AutoDXT, 256X256)
+[2018.12.12-09.32.06:488][376]LogTexture: Display: Building textures: LQ_Lightmap_1_20 (DXT1, 256X256)
+[2018.12.12-09.32.06:488][376]LogTexture: Display: Building textures: HQ_Lightmap1_21 (AutoDXT, 256X256)
+[2018.12.12-09.32.06:488][376]LogTexture: Display: Building textures: LQ_Lightmap_1_21 (DXT1, 256X256)
+[2018.12.12-09.32.06:488][376]LogTexture: Display: Building textures: HQ_Lightmap1_22 (AutoDXT, 256X256)
+[2018.12.12-09.32.06:488][376]LogTexture: Display: Building textures: LQ_Lightmap_1_22 (DXT1, 256X256)
+[2018.12.12-09.32.06:488][376]LogTexture: Display: Building textures: HQ_Lightmap1_23 (AutoDXT, 256X256)
+[2018.12.12-09.32.06:488][376]LogTexture: Display: Building textures: LQ_Lightmap_1_23 (DXT1, 256X256)
+[2018.12.12-09.32.06:635][376]Lightmass on TGA29: 11:06 min total, 1.40 sec importing, 2.61 sec setup, 2:28 min photons, 8:34 min processing, 0 ms extra exporting [365/365 mappings]. Threads: 34:17 min total, 22:07 min processing.
+[2018.12.12-09.32.06:740][376]LogStaticLightingSystem: Illumination: 11:19 min (273 ms encoding lightmaps, 0 ms encoding shadowmaps)
+[2018.12.12-09.32.06:740][376]LogStaticLightingSystem: Lightmap texture memory:  3.3 MB (3.3 MB streaming, 0.0 MB non-streaming), 46 textures
+[2018.12.12-09.32.06:740][376]LogStaticLightingSystem: Shadowmap texture memory: 0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 0 textures
+[2018.12.12-09.32.07:501][376]DumpUnbuiltLightIteractions
+[2018.12.12-09.32.07:501][376]Lights with unbuilt interactions: 0
+[2018.12.12-09.32.07:501][376]
+[2018.12.12-09.32.07:501][376]Primitives with unbuilt interactions: 0
+[2018.12.12-09.32.07:587][377]Cmd: MAP CHECK NOTIFYRESULTS
+[2018.12.12-09.32.07:588][377]MapCheck: New page: Bridge - Dec 12, 2018, 11:32:07 AM
+[2018.12.12-09.32.07:591][377]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 3.417ms to complete.
+[2018.12.12-09.32.11:961][652]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.12-09.32.12:331][680]LogSlate: Window 'Message Log' being destroyed
+[2018.12.12-09.32.12:348][680]LogSlate: Window 'Message Log' being destroyed
+[2018.12.12-09.32.15:434][915]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.12-09.32.41:869][933]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2018.12.12-09.32.42:556][970]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2018.12.12-09.32.43:221][ 15]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2018.12.12-09.32.44:208][ 83]LogEditorViewport: Clicking on Actor (LMB): PostProcessVolume (PostProcessVolume)
+[2018.12.12-09.32.45:884][199]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.12-09.38.11:839][393]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.12.12-09.38.11:840][393]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.12.12-09.38.23:131][917]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Root/Assets/Material/M_PortalCard" FILE="D:/TGA PROJECTS/FantasyBridge/UE_FantasyBridge/Content/Root/Assets/Material/M_PortalCard.uasset" SILENT=true
+[2018.12.12-09.38.23:150][917]LogSavePackage: Moving 'D:/TGA PROJECTS/FantasyBridge/UE_FantasyBridge/Saved/M_PortalCard6D7948A94028021FA2EF94A54DAC48E3.tmp' to 'D:/TGA PROJECTS/FantasyBridge/UE_FantasyBridge/Content/Root/Assets/Material/M_PortalCard.uasset'
+[2018.12.12-09.38.27:307][ 77]LogAssetEditorManager: Opening Asset editor for Material /Game/Root/Assets/Material/M_PortalCard.M_PortalCard
+[2018.12.12-09.38.27:314][ 77]LogMaterial: Display: Missing cached shader map for material M_PortalCard, compiling. 
+[2018.12.12-09.38.27:865][ 77]LogMaterial: Display: Missing cached shader map for material M_PortalCard, compiling. 
+[2018.12.12-09.38.27:887][ 77]LogMaterial: Display: Missing cached shader map for material M_PortalCard, compiling. 
+[2018.12.12-09.38.27:923][ 77]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.12.12-09.38.27:923][ 77]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.12.12-09.38.27:923][ 77]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.12.12-09.38.31:711][219]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.12.12-09.38.31:711][219]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.12.12-09.38.32:215][240]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.12.12-09.38.32:550][254]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.12.12-09.38.33:187][282]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.12.12-09.38.34:191][326]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.12.12-09.38.34:341][333]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.12.12-09.38.34:636][346]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.12.12-09.38.36:174][415]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.12.12-09.38.37:519][473]LogMaterial: Display: Missing cached shader map for material M_PortalCard, compiling. 
+[2018.12.12-09.38.37:550][473]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.12.12-09.38.37:561][473]LogMaterial: Display: Missing cached shader map for material M_PortalCard, compiling. 
+[2018.12.12-09.38.37:605][473]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.12.12-09.38.37:621][473]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.12.12-09.38.38:662][515]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.12.12-09.38.39:050][533]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.12.12-09.38.40:004][576]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.12.12-09.38.40:974][619]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.12.12-09.38.41:964][667]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.12.12-09.38.42:274][682]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.12.12-09.38.43:589][738]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.12.12-09.38.44:083][761]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.12.12-09.38.44:317][771]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.12.12-09.38.45:251][816]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.12.12-09.38.45:938][849]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.12.12-09.38.46:831][869]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.12.12-09.38.46:966][869]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.12.12-09.38.46:966][869]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.12.12-09.38.47:556][869]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.12.12-09.38.47:556][869]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.12.12-09.38.47:556][869]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.12.12-09.38.49:529][960]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.12.12-09.38.50:648][ 10]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.12.12-09.38.52:430][ 90]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.12.12-09.38.54:781][200]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.12.12-09.38.55:131][216]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.12.12-09.38.56:059][260]MaterialEditorStats: Base pass shader: 105 instructions
+[2018.12.12-09.38.56:059][260]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 179 instructions
+[2018.12.12-09.38.56:059][260]MaterialEditorStats: Base pass vertex shader: 32 instructions
+[2018.12.12-09.38.56:059][260]MaterialEditorStats: Texture samplers: 3/16
+[2018.12.12-09.39.18:372][348]LogRenderer: Warning: Bokeh DOF algorithm is deprecated and will be removed. Consider using the Circle DOF method in post process settings.
+[2018.12.12-09.39.43:495][559]LogMaterial: Display: Missing cached shader map for material M_PortalCard, compiling. 
+[2018.12.12-09.39.43:520][559]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.12.12-09.39.43:520][559]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.12.12-09.39.43:520][559]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.12.12-09.39.49:517][831]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.12.12-09.39.50:385][870]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.12.12-09.39.51:387][915]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.12.12-09.39.52:133][948]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.12.12-09.39.53:535][ 12]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.12.12-09.39.54:508][ 55]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.12.12-09.39.55:350][ 92]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.12.12-09.39.56:798][157]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.12.12-09.39.59:432][277]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.12.12-09.40.00:044][304]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.12.12-09.40.00:081][305]LogMaterial: Display: Missing cached shader map for material M_PortalCard, compiling. 
+[2018.12.12-09.40.00:082][305]LogMaterial: Warning: /Engine/Transient.M_PortalCard (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.12.12-09.40.00:082][305]LogMaterial: 	Material using the DeferredDecal domain need to use the BlendModel Translucent (this saves performance)
+[2018.12.12-09.40.00:103][305]LogMaterial: Display: Missing cached shader map for material M_PortalCard, compiling. 
+[2018.12.12-09.40.00:103][305]LogMaterial: Warning: /Engine/Transient.M_PortalCard (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.12.12-09.40.00:104][305]LogMaterial: 	Material using the DeferredDecal domain need to use the BlendModel Translucent (this saves performance)
+[2018.12.12-09.40.00:142][305]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.12.12-09.40.00:154][305]LogMaterial: Display: Missing cached shader map for material M_PortalCard, compiling. 
+[2018.12.12-09.40.00:155][305]LogMaterial: Warning: /Engine/Transient.M_PortalCard (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.12.12-09.40.00:155][305]LogMaterial: 	Material using the DeferredDecal domain need to use the BlendModel Translucent (this saves performance)
+[2018.12.12-09.40.00:162][305]MaterialEditorStats: Error: [SM5] Material using the DeferredDecal domain need to use the BlendModel Translucent (this saves performance)
+[2018.12.12-09.40.01:265][349]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.12.12-09.40.05:833][544]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.12.12-09.40.43:308][446]LogMaterial: Display: Missing cached shader map for material M_PortalCard, compiling. 
+[2018.12.12-09.40.43:309][446]LogMaterial: Warning: /Engine/Transient.M_PortalCard (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.12.12-09.40.43:309][446]LogMaterial: 	Material using the DeferredDecal domain need to use the BlendModel Translucent (this saves performance)
+[2018.12.12-09.40.48:253][689]LogMaterial: Display: Missing cached shader map for material M_PortalCard, compiling. 
+[2018.12.12-09.40.48:285][689]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.12.12-09.40.48:285][689]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.12.12-09.40.48:285][689]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.12.12-09.40.48:290][689]LogMaterial: Display: Missing cached shader map for material M_PortalCard, compiling. 
+[2018.12.12-09.40.48:316][689]LogMaterial: Display: Missing cached shader map for material M_PortalCard, compiling. 
+[2018.12.12-09.40.48:824][708]LogMaterial: Display: Missing cached shader map for material M_PortalCard, compiling. 
+[2018.12.12-09.40.50:026][759]LogMaterial: Display: Missing cached shader map for material M_PortalCard, compiling. 
+[2018.12.12-09.40.50:110][759]LogMaterial: Display: Missing cached shader map for material M_PortalCard, compiling. 
+[2018.12.12-09.40.50:149][759]LogMaterial: Display: Missing cached shader map for material M_PortalCard, compiling. 
+[2018.12.12-09.40.51:426][811]LogShaderCompilers: Display: Shaders left to compile 30
+[2018.12.12-09.40.51:733][824]LogShaderCompilers: Display: Shaders left to compile 29
+[2018.12.12-09.40.52:254][848]LogShaderCompilers: Display: Shaders left to compile 28
+[2018.12.12-09.40.53:254][893]LogShaderCompilers: Display: Shaders left to compile 27
+[2018.12.12-09.40.53:766][914]LogShaderCompilers: Display: Shaders left to compile 26
+[2018.12.12-09.40.54:384][940]LogShaderCompilers: Display: Shaders left to compile 25
+[2018.12.12-09.40.55:383][986]LogShaderCompilers: Display: Shaders left to compile 24
+[2018.12.12-09.40.55:813][  5]LogShaderCompilers: Display: Shaders left to compile 23
+[2018.12.12-09.40.58:207][109]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.12.12-09.40.58:910][139]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.12.12-09.41.01:513][252]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.12.12-09.41.03:795][357]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.12.12-09.41.08:848][577]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.12.12-09.41.09:376][599]LogMaterial: Display: Missing cached shader map for material M_PortalCard, compiling. 
+[2018.12.12-09.41.10:568][649]LogShaderCompilers: Display: Shaders left to compile 30
+[2018.12.12-09.41.11:302][680]LogMaterial: Display: Missing cached shader map for material M_PortalCard, compiling. 
+[2018.12.12-09.41.11:333][680]LogMaterial: Display: Missing cached shader map for material M_PortalCard, compiling. 
+[2018.12.12-09.41.11:345][680]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.12.12-09.41.11:353][680]LogMaterial: Display: Missing cached shader map for material M_PortalCard, compiling. 
+[2018.12.12-09.41.12:435][726]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.12.12-09.41.13:736][787]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.12.12-09.41.13:847][792]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.12.12-09.41.15:195][856]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.12.12-09.41.15:929][889]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.12.12-09.41.16:995][939]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.12.12-09.41.17:290][953]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.12.12-09.41.17:436][960]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.12.12-09.41.19:145][ 39]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.12.12-09.41.20:110][ 82]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.12.12-09.41.20:982][119]LogMaterial: Display: Missing cached shader map for material M_PortalCard, compiling. 
+[2018.12.12-09.41.21:568][144]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.12.12-09.41.23:096][217]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.12.12-09.41.23:266][225]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.12.12-09.41.24:660][291]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.12.12-09.41.25:155][315]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.12.12-09.41.26:469][378]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.12.12-09.41.26:529][381]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.12.12-09.41.26:635][386]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.12.12-09.41.28:200][462]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.12.12-09.41.29:338][516]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.12.12-09.41.33:079][695]MaterialEditorStats: Base pass shader without light map: 43 instructions
+[2018.12.12-09.41.33:079][695]MaterialEditorStats: Base pass vertex shader: 107 instructions
+[2018.12.12-09.41.33:079][695]MaterialEditorStats: Texture samplers: 3/16
+[2018.12.12-09.41.35:715][837]LogMaterial: Display: Missing cached shader map for material M_PortalCard, compiling. 
+[2018.12.12-09.41.35:729][837]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2018.12.12-09.41.35:785][838]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.12.12-09.41.35:785][838]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.12.12-09.41.35:785][838]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.12.12-09.41.37:405][911]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.12.12-09.41.37:696][924]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.12.12-09.41.38:111][943]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.12.12-09.41.38:814][975]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.12.12-09.41.39:085][987]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.12.12-09.41.39:955][ 27]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.12.12-09.41.42:922][169]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.12.12-09.41.43:052][175]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.12.12-09.41.43:793][210]LogMaterial: Display: Missing cached shader map for material M_PortalCard, compiling. 
+[2018.12.12-09.41.43:811][210]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_0, compiling. 
+[2018.12.12-09.41.45:980][309]LogMaterial: Display: Missing cached shader map for material M_PortalCard, compiling. 
+[2018.12.12-09.41.46:517][330]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.12.12-09.41.46:563][332]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.12.12-09.41.47:290][365]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.12.12-09.41.49:407][461]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.12.12-09.41.49:520][466]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.12.12-09.41.50:705][520]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.12.12-09.41.51:232][543]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.12.12-09.41.51:607][560]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.12.12-09.41.52:039][578]LogMaterial: Display: Missing cached shader map for material M_PortalCard, compiling. 
+[2018.12.12-09.41.52:058][578]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_1, compiling. 
+[2018.12.12-09.41.52:072][578]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_1, compiling. 
+[2018.12.12-09.41.52:122][578]LogMaterial: Display: Missing cached shader map for material M_PortalCard, compiling. 
+[2018.12.12-09.41.52:216][579]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.12.12-09.41.52:216][579]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.12.12-09.41.52:338][584]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.12.12-09.41.54:277][673]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.12.12-09.41.54:490][683]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.12.12-09.41.55:817][744]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.12.12-09.41.56:002][752]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.12.12-09.41.56:551][777]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.12.12-09.41.57:445][818]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.12.12-09.41.58:368][860]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.12.12-09.41.58:673][873]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.12.12-09.42.01:494][997]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.12.12-09.42.05:007][154]MaterialEditorStats: Base pass shader without light map: 43 instructions
+[2018.12.12-09.42.05:007][154]MaterialEditorStats: Base pass vertex shader: 107 instructions
+[2018.12.12-09.42.05:007][154]MaterialEditorStats: Texture samplers: 3/16
+[2018.12.12-09.42.26:185][235]LogMaterial: Display: Missing cached shader map for material M_PortalCard, compiling. 
+[2018.12.12-09.42.26:199][235]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.12.12-09.42.26:199][235]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.12.12-09.42.26:199][235]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.12.12-09.42.26:227][235]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_1, compiling. 
+[2018.12.12-09.42.26:235][235]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionDepthFade_0, compiling. 
+[2018.12.12-09.42.30:162][416]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.12.12-09.42.30:837][447]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.12.12-09.42.32:681][529]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.12.12-09.42.33:027][546]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.12.12-09.42.34:481][614]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.12.12-09.42.36:595][713]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.12.12-09.42.37:750][761]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.12.12-09.42.40:244][872]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.12.12-09.42.42:906][992]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.12.12-09.42.45:815][123]MaterialEditorStats: Base pass shader without light map: 43 instructions
+[2018.12.12-09.42.45:815][123]MaterialEditorStats: Base pass vertex shader: 107 instructions
+[2018.12.12-09.42.45:815][123]MaterialEditorStats: Texture samplers: 3/16
+[2018.12.12-09.43.20:730][803]LogMaterial: Display: Missing cached shader map for material M_PortalCard, compiling. 
+[2018.12.12-09.43.20:745][803]LogMaterial: Display: Missing cached shader map for material M_PortalCard, compiling. 
+[2018.12.12-09.43.20:771][803]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.12.12-09.43.20:771][803]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.12.12-09.43.20:771][803]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.12.12-09.43.20:785][803]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionDepthFade_0, compiling. 
+[2018.12.12-09.43.23:564][926]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.12.12-09.43.24:268][958]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.12.12-09.43.24:938][989]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.12.12-09.43.26:294][ 49]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.12.12-09.43.28:561][153]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.12.12-09.43.29:802][208]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.12.12-09.43.30:168][225]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.12.12-09.43.32:133][311]LogMaterial: Display: Missing cached shader map for material M_PortalCard, compiling. 
+[2018.12.12-09.43.32:693][334]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.12.12-09.43.33:880][386]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.12.12-09.43.33:893][386]LogMaterial: Display: Missing cached shader map for material M_PortalCard, compiling. 
+[2018.12.12-09.43.33:915][386]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionDepthFade_0, compiling. 
+[2018.12.12-09.43.33:963][387]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.12.12-09.43.35:471][455]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.12.12-09.43.35:599][461]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.12.12-09.43.36:220][489]LogMaterial: Display: Missing cached shader map for material M_PortalCard, compiling. 
+[2018.12.12-09.43.36:239][489]LogMaterial: Display: Missing cached shader map for material M_PortalCard, compiling. 
+[2018.12.12-09.43.36:859][517]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.12.12-09.43.36:859][517]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.12.12-09.43.38:254][580]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.12.12-09.43.38:436][588]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.12.12-09.43.38:602][596]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.12.12-09.43.39:768][649]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.12.12-09.43.39:867][653]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.12.12-09.43.40:048][661]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.12.12-09.43.41:470][725]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.12.12-09.43.44:003][843]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.12.12-09.43.44:919][885]LogMaterial: Display: Missing cached shader map for material M_PortalCard, compiling. 
+[2018.12.12-09.43.44:931][885]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.12.12-09.43.47:186][988]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.12.12-09.43.48:432][ 44]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.12.12-09.43.48:785][ 59]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.12.12-09.43.50:190][120]LogMaterial: Display: Missing cached shader map for material M_PortalCard, compiling. 
+[2018.12.12-09.43.50:240][120]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionDepthFade_0, compiling. 
+[2018.12.12-09.43.50:323][121]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.12.12-09.43.50:323][121]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.12.12-09.43.50:323][121]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.12.12-09.43.51:632][177]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2018.12.12-09.43.53:527][177]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.12.12-09.43.53:527][177]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.12.12-09.43.53:527][177]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.12.12-09.43.53:527][177]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.12.12-09.43.53:527][177]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.12.12-09.43.53:527][177]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.12.12-09.43.53:527][177]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.12.12-09.43.53:527][177]LogStats: FPlatformStackWalk::StackWalkAndDump -  1.895 s
+[2018.12.12-09.43.53:527][177]LogOutputDevice: Error: === Handled ensure: ===
+[2018.12.12-09.43.53:527][177]LogOutputDevice: Error: 
+[2018.12.12-09.43.53:527][177]LogOutputDevice: Error: Ensure condition failed: TargetPin [File:D:\Build\++UE4\Sync\Engine\Source\Editor\MaterialEditor\Private\MaterialEditor.cpp] [Line: 2990]
+[2018.12.12-09.43.53:527][177]LogOutputDevice: Error: 
+[2018.12.12-09.43.53:527][177]LogOutputDevice: Error: Stack: 
+[2018.12.12-09.43.53:527][177]LogOutputDevice: Error: [Callstack] 0x00007ffe5e47ea53 UE4Editor-MaterialEditor.dll!UnknownFunction []
+[2018.12.12-09.43.53:527][177]LogOutputDevice: Error: [Callstack] 0x00007ffe5e4256af UE4Editor-MaterialEditor.dll!UnknownFunction []
+[2018.12.12-09.43.53:527][177]LogOutputDevice: Error: [Callstack] 0x00007ffe7620fa04 UE4Editor-Slate.dll!UnknownFunction []
+[2018.12.12-09.43.53:527][177]LogOutputDevice: Error: [Callstack] 0x00007ffe7631d1e7 UE4Editor-Slate.dll!UnknownFunction []
+[2018.12.12-09.43.53:527][177]LogOutputDevice: Error: [Callstack] 0x00007ffe763017af UE4Editor-Slate.dll!UnknownFunction []
+[2018.12.12-09.43.53:527][177]LogOutputDevice: Error: [Callstack] 0x00007ffe775ba11e UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.12.12-09.43.53:528][177]LogOutputDevice: Error: [Callstack] 0x00007ffe775bc034 UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.12.12-09.43.53:528][177]LogOutputDevice: Error: [Callstack] 0x00007ffe775ba786 UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.12.12-09.43.53:528][177]LogOutputDevice: Error: [Callstack] 0x00007ffe775bc034 UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.12.12-09.43.53:528][177]LogOutputDevice: Error: [Callstack] 0x00007ffe775bce21 UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.12.12-09.43.53:528][177]LogOutputDevice: Error: [Callstack] 0x00007ffe775ba8e4 UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.12.12-09.43.53:528][177]LogOutputDevice: Error: [Callstack] 0x00007ffe775bc034 UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.12.12-09.43.53:528][177]LogOutputDevice: Error: [Callstack] 0x00007ffe775bce21 UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.12.12-09.43.53:528][177]LogOutputDevice: Error: [Callstack] 0x00007ffe775ba8e4 UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.12.12-09.43.53:528][177]LogOutputDevice: Error: [Callstack] 0x00007ffe775bc034 UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.12.12-09.43.53:528][177]LogOutputDevice: Error: [Callstack] 0x00007ffe775bce21 UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.12.12-09.43.53:528][177]LogOutputDevice: Error: [Callstack] 0x00007ffe775ba8e4 UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.12.12-09.43.53:528][177]LogOutputDevice: Error: [Callstack] 0x00007ffe775bc034 UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.12.12-09.43.53:528][177]LogOutputDevice: Error: [Callstack] 0x00007ffe775ba786 UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.12.12-09.43.53:528][177]LogOutputDevice: Error: [Callstack] 0x00007ffe775bc034 UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.12.12-09.43.53:528][177]LogOutputDevice: Error: [Callstack] 0x00007ffe775bce21 UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.12.12-09.43.53:528][177]LogOutputDevice: Error: [Callstack] 0x00007ffe775ba8e4 UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.12.12-09.43.53:528][177]LogOutputDevice: Error: [Callstack] 0x00007ffe775bc034 UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.12.12-09.43.53:528][177]LogOutputDevice: Error: [Callstack] 0x00007ffe775ba169 UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.12.12-09.43.53:528][177]LogOutputDevice: Error: [Callstack] 0x00007ffe764899ed UE4Editor-Slate.dll!UnknownFunction []
+[2018.12.12-09.43.53:528][177]LogOutputDevice: Error: [Callstack] 0x00007ffe775bc034 UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.12.12-09.43.53:528][177]LogOutputDevice: Error: [Callstack] 0x00007ffe775ba169 UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.12.12-09.43.53:528][177]LogOutputDevice: Error: [Callstack] 0x00007ffe76484a9d UE4Editor-Slate.dll!UnknownFunction []
+[2018.12.12-09.43.53:528][177]LogOutputDevice: Error: [Callstack] 0x00007ffe775bc034 UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.12.12-09.43.53:528][177]LogOutputDevice: Error: [Callstack] 0x00007ffe775ba169 UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.12.12-09.43.53:528][177]LogOutputDevice: Error: [Callstack] 0x00007ffe775bc034 UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.12.12-09.43.53:528][177]LogOutputDevice: Error: [Callstack] 0x00007ffe7756eb66 UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.12.12-09.43.53:528][177]LogOutputDevice: Error: [Callstack] 0x00007ffe775bd079 UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.12.12-09.43.53:528][177]LogOutputDevice: Error: [Callstack] 0x00007ffe775bcb21 UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.12.12-09.43.53:528][177]LogOutputDevice: Error: [Callstack] 0x00007ffe7621d139 UE4Editor-Slate.dll!UnknownFunction []
+[2018.12.12-09.43.53:528][177]LogOutputDevice: Error: [Callstack] 0x00007ffe7621e199 UE4Editor-Slate.dll!UnknownFunction []
+[2018.12.12-09.43.53:528][177]LogOutputDevice: Error: [Callstack] 0x00007ffe7621e199 UE4Editor-Slate.dll!UnknownFunction []
+[2018.12.12-09.43.53:528][177]LogOutputDevice: Error: [Callstack] 0x00007ffe762540d0 UE4Editor-Slate.dll!UnknownFunction []
+[2018.12.12-09.43.53:528][177]LogOutputDevice: Error: [Callstack] 0x00007ffe7621e222 UE4Editor-Slate.dll!UnknownFunction []
+[2018.12.12-09.43.53:528][177]LogOutputDevice: Error: [Callstack] 0x00007ffe7627f5a6 UE4Editor-Slate.dll!UnknownFunction []
+[2018.12.12-09.43.53:528][177]LogOutputDevice: Error: [Callstack] 0x00007ffe7627e483 UE4Editor-Slate.dll!UnknownFunction []
+[2018.12.12-09.43.53:528][177]LogOutputDevice: Error: [Callstack] 0x00007ff6b69c7094 UE4Editor.exe!UnknownFunction []
+[2018.12.12-09.43.53:528][177]LogOutputDevice: Error: [Callstack] 0x00007ff6b69d596c UE4Editor.exe!UnknownFunction []
+[2018.12.12-09.43.53:528][177]LogOutputDevice: Error: [Callstack] 0x00007ff6b69d59ea UE4Editor.exe!UnknownFunction []
+[2018.12.12-09.43.53:528][177]LogOutputDevice: Error: [Callstack] 0x00007ff6b69e48da UE4Editor.exe!UnknownFunction []
+[2018.12.12-09.43.53:528][177]LogOutputDevice: Error: [Callstack] 0x00007ff6b69e659a UE4Editor.exe!UnknownFunction []
+[2018.12.12-09.43.53:529][177]LogOutputDevice: Error: [Callstack] 0x00007ffea8c73034 KERNEL32.DLL!UnknownFunction []
+[2018.12.12-09.43.53:529][177]LogOutputDevice: Error: [Callstack] 0x00007ffea91e1471 ntdll.dll!UnknownFunction []
+[2018.12.12-09.43.53:529][177]LogOutputDevice: Error: 
+[2018.12.12-09.43.53:530][177]LogStats:                SubmitErrorReport -  0.000 s
